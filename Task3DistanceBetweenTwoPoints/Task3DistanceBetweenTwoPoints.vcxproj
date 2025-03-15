@@ -24,6 +24,7 @@
     <ProjectGuid>{4318f1e8-ff2d-4039-b54a-0f1b1573dc94}</ProjectGuid>
     <RootNamespace>Task3DistanceBetweenTwoPoints</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Week1Task3DistanceBetweenTwoPoints</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

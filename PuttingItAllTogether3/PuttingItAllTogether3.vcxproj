@@ -24,6 +24,7 @@
     <ProjectGuid>{c79490a2-de7d-4eae-b8b4-59133b22de9f}</ProjectGuid>
     <RootNamespace>PuttingItAllTogether3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Week1PuttingItAllTogether3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

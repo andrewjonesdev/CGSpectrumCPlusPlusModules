@@ -24,6 +24,7 @@
     <ProjectGuid>{2c9a28ac-480f-4672-ba05-6003e612d5cc}</ProjectGuid>
     <RootNamespace>Task1CalculateAverage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Week1Task1CalculateAverage</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
