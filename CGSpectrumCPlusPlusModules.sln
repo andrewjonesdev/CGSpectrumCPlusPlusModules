@@ -3,25 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variables", "CGSpectrumWeek2CPlusPlus\CGSpectrumWeek2CPlusPlus.vcxproj", "{3EB22769-C209-4F9D-BE11-5E219D2434F1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1Variables", "CGSpectrumWeek2CPlusPlus\CGSpectrumWeek2CPlusPlus.vcxproj", "{3EB22769-C209-4F9D-BE11-5E219D2434F1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operators", "Operators\Operators.vcxproj", "{D1E666C9-68C2-48C5-8B7B-B4753CF45B0A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1Operators", "Operators\Operators.vcxproj", "{D1E666C9-68C2-48C5-8B7B-B4753CF45B0A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompoundOperators", "CompoundOperators\CompoundOperators.vcxproj", "{4B927F24-C041-4027-8805-8D7D757C0EB5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1CompoundOperators", "CompoundOperators\CompoundOperators.vcxproj", "{4B927F24-C041-4027-8805-8D7D757C0EB5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TypeConversion", "TypeConversion\TypeConversion.vcxproj", "{777A8FB8-444F-465C-9272-F2A082605F62}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1TypeConversion", "TypeConversion\TypeConversion.vcxproj", "{777A8FB8-444F-465C-9272-F2A082605F62}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PuttingItAllTogether", "PuttingItAllTogether\PuttingItAllTogether.vcxproj", "{01BBE24C-10B9-4C23-92E6-A2BFE1472599}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1PuttingItAllTogether", "PuttingItAllTogether\PuttingItAllTogether.vcxproj", "{01BBE24C-10B9-4C23-92E6-A2BFE1472599}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PuttingItAllTogether2", "PuttingItAllTogether2\PuttingItAllTogether2.vcxproj", "{6390FFB7-6C93-4023-B982-BB510720EB70}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1PuttingItAllTogether2", "PuttingItAllTogether2\PuttingItAllTogether2.vcxproj", "{6390FFB7-6C93-4023-B982-BB510720EB70}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PuttingItAllTogether3", "PuttingItAllTogether3\PuttingItAllTogether3.vcxproj", "{C79490A2-DE7D-4EAE-B8B4-59133B22DE9F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1PuttingItAllTogether3", "PuttingItAllTogether3\PuttingItAllTogether3.vcxproj", "{C79490A2-DE7D-4EAE-B8B4-59133B22DE9F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task1CalculateAverage", "Task1CalculateAverage\Task1CalculateAverage.vcxproj", "{2C9A28AC-480F-4672-BA05-6003E612D5CC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1Task1CalculateAverage", "Task1CalculateAverage\Task1CalculateAverage.vcxproj", "{2C9A28AC-480F-4672-BA05-6003E612D5CC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task2UnitConversionChallenge", "Task2UnitConversionChallenge\Task2UnitConversionChallenge.vcxproj", "{0BFDB86A-2694-4196-9A47-D525EFBBEB8D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1Task2UnitConversionChallenge", "Task2UnitConversionChallenge\Task2UnitConversionChallenge.vcxproj", "{0BFDB86A-2694-4196-9A47-D525EFBBEB8D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task3DistanceBetweenTwoPoints", "Task3DistanceBetweenTwoPoints\Task3DistanceBetweenTwoPoints.vcxproj", "{4318F1E8-FF2D-4039-B54A-0F1B1573DC94}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week1Task3DistanceBetweenTwoPoints", "Task3DistanceBetweenTwoPoints\Task3DistanceBetweenTwoPoints.vcxproj", "{4318F1E8-FF2D-4039-B54A-0F1B1573DC94}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2Task1ErrorsAndDebugging", "ErrorsAndDebugging\ErrorsAndDebugging.vcxproj", "{AE923F7D-84AF-4AEF-913F-728FA257ECEE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2Task2Grading", "Week2Task2Grading\Week2Task2Grading.vcxproj", "{9DC46D7B-B047-4237-9FFA-C850955F27D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2Task3AdventureGame", "Week2Task3AdventureGame\Week2Task3AdventureGame.vcxproj", "{6F9ED4D9-46D0-4737-A402-5162BF8C453D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +117,30 @@ Global
 		{4318F1E8-FF2D-4039-B54A-0F1B1573DC94}.Release|x64.Build.0 = Release|x64
 		{4318F1E8-FF2D-4039-B54A-0F1B1573DC94}.Release|x86.ActiveCfg = Release|Win32
 		{4318F1E8-FF2D-4039-B54A-0F1B1573DC94}.Release|x86.Build.0 = Release|Win32
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Debug|x64.ActiveCfg = Debug|x64
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Debug|x64.Build.0 = Debug|x64
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Debug|x86.Build.0 = Debug|Win32
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Release|x64.ActiveCfg = Release|x64
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Release|x64.Build.0 = Release|x64
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Release|x86.ActiveCfg = Release|Win32
+		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Release|x86.Build.0 = Release|Win32
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Debug|x64.ActiveCfg = Debug|x64
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Debug|x64.Build.0 = Debug|x64
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Debug|x86.Build.0 = Debug|Win32
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Release|x64.ActiveCfg = Release|x64
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Release|x64.Build.0 = Release|x64
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Release|x86.ActiveCfg = Release|Win32
+		{9DC46D7B-B047-4237-9FFA-C850955F27D8}.Release|x86.Build.0 = Release|Win32
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Debug|x64.ActiveCfg = Debug|x64
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Debug|x64.Build.0 = Debug|x64
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Debug|x86.Build.0 = Debug|Win32
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Release|x64.ActiveCfg = Release|x64
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Release|x64.Build.0 = Release|x64
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Release|x86.ActiveCfg = Release|Win32
+		{6F9ED4D9-46D0-4737-A402-5162BF8C453D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
