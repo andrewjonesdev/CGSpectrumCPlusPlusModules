@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{ae923f7d-84af-4aef-913f-728fa257ecee}</ProjectGuid>
-    <RootNamespace>Week2Task1ErrorsAndDebugging</RootNamespace>
+    <RootNamespace>ErrorsAndDebugging</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Week2Task1ErrorsAndDebugging</ProjectName>
   </PropertyGroup>
