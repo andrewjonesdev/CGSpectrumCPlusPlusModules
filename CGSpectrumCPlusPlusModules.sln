@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2Task3AdventureGame", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2Task1ErrorsAndDebugging", "Week2Task1ErrorsAndDebugging\ErrorsAndDebugging.vcxproj", "{AE923F7D-84AF-4AEF-913F-728FA257ECEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecursiveDiamond", "RecursiveDiamond\RecursiveDiamond.vcxproj", "{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Release|x64.Build.0 = Release|x64
 		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Release|x86.ActiveCfg = Release|Win32
 		{AE923F7D-84AF-4AEF-913F-728FA257ECEE}.Release|x86.Build.0 = Release|Win32
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Debug|x64.ActiveCfg = Debug|x64
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Debug|x64.Build.0 = Debug|x64
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Debug|x86.ActiveCfg = Debug|Win32
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Debug|x86.Build.0 = Debug|Win32
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Release|x64.ActiveCfg = Release|x64
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Release|x64.Build.0 = Release|x64
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Release|x86.ActiveCfg = Release|Win32
+		{23EB7BAC-F62A-4BF3-B3E0-8696D257907E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
