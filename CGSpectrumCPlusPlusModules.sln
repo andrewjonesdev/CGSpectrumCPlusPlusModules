@@ -53,6 +53,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week4Task3AlphabetLoader", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week4Task4MazeLoader", "Week4Task4MazeLoader\Week4Task4MazeLoader.vcxproj", "{A53DBC43-06A0-4C11-B35C-EEDFD1402E90}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MazeWithAsciiArt", "MazeWithAsciiArt\MazeWithAsciiArt.vcxproj", "{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarioWithAsciiArtNoWideCharacters", "MarioWithAsciiArtNoWideCharacters\MarioWithAsciiArtNoWideCharacters.vcxproj", "{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -253,6 +257,22 @@ Global
 		{A53DBC43-06A0-4C11-B35C-EEDFD1402E90}.Release|x64.Build.0 = Release|x64
 		{A53DBC43-06A0-4C11-B35C-EEDFD1402E90}.Release|x86.ActiveCfg = Release|Win32
 		{A53DBC43-06A0-4C11-B35C-EEDFD1402E90}.Release|x86.Build.0 = Release|Win32
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Debug|x64.ActiveCfg = Debug|x64
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Debug|x64.Build.0 = Debug|x64
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Debug|x86.ActiveCfg = Debug|Win32
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Debug|x86.Build.0 = Debug|Win32
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Release|x64.ActiveCfg = Release|x64
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Release|x64.Build.0 = Release|x64
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Release|x86.ActiveCfg = Release|Win32
+		{547D6226-2874-4AC0-AB7E-BF5F4FD44B6A}.Release|x86.Build.0 = Release|Win32
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Debug|x64.ActiveCfg = Debug|x64
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Debug|x64.Build.0 = Debug|x64
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Debug|x86.ActiveCfg = Debug|Win32
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Debug|x86.Build.0 = Debug|Win32
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Release|x64.ActiveCfg = Release|x64
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Release|x64.Build.0 = Release|x64
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Release|x86.ActiveCfg = Release|Win32
+		{02BB9535-B9D0-48C9-BF0E-C7FF4C33804F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
