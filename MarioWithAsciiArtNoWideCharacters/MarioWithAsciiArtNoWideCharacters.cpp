@@ -12,8 +12,6 @@
 #include <Wincon.h>
 
 using namespace std;
-
-using namespace std;
 struct Maze
 {
     array<array<char, 16>, 11> maze;
